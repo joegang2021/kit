@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.95
+
+### Patch Changes
+
+- 08ebcb5: Add esm config support
+
 ## 1.0.0-next.94
 
 ### Patch Changes
